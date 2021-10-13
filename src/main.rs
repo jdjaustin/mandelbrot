@@ -1,3 +1,5 @@
+// Code written following Rust in Action by Tim McNamara
+
 use num::complex::Complex;
 
 fn calculate_mandelbrot(
